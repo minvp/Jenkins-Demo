@@ -1,0 +1,13 @@
+ID,First Name,Last Name,Date of Birth,Math Score,Literature Score,GPA,Status
+1,Tran,Hoa,3/2/1999,7.0,6.0,6.5,Good
+2,Nguyen,Nam,24/7/1998,6.0,7.0,6.5,Good
+3,Dung,Mai,12/9/1998,5.0,6.0,5.5,Bad
+4,Hoai,An,3/2/2000,6.0,4.0,5.0,Bad
+5,Thanh,Ha,12/4/1999,8.0,7.0,7.5,Good
+6,Tran,Hoa,3/2/1999,7.0,6.0,6.5,Good
+7,Vu,Ngoc,13/04/1999,8.0,4.0,6.0,Bad
+8,Huong,Giang,12/1/1999,7.0,6.0,6.5,Good
+9,minh,le,04/08/1998,9.0,7.0,8.0,Good
+10,minh,le,04/08/1998,9.0,8.0,8.5,Good
+11,Nam,Linh,12/12/1234,9.0,8.0,8.5,Good
+12,Vu,Phan,12/11/1435,10.0,10.0,10.0,Good
