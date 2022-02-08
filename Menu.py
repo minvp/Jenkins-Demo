@@ -2,6 +2,7 @@ import datetime
 from datetime import date
 import os.path
 from os import path
+import pandas as pd
 
 def menu():
     print('''
