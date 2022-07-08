@@ -1,6 +1,15 @@
 # Starter pipeline
 - task: CmdLine@2
   inputs:
+    script: 'echo Python'
+- task: CmdLine@2
+  inputs:
+    script: |
+      echo Python
+      
+      echo Hello world
+- task: CmdLine@2
+  inputs:
     script: 'print (''Hello'')'
 # Start with a minimal pipeline that you can customize to build and deploy your code.
 # Add steps that build, run tests, deploy, and more:
